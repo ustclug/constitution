@@ -1,0 +1,7 @@
+# TeX Ignore
+*.aux
+*.log
+*.out
+*.pdf
+*.toc
+*.synctex.gz
