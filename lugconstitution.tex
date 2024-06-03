@@ -1,0 +1,44 @@
+\documentclass[a4paper, 12pt, twoside]{ctexart}
+\usepackage[margin=1in, top=1.35in, bottom=1.35in]{geometry}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage{tabularx}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\linespread{1.5}
+
+\renewcommand{\thesection}{第\chinese{section} 章}
+\titleformat{\section}[block]{\centering\bfseries\Large}{\thesection\hspace{0.2in}}{0pt}{}
+
+\newcommand{\draftstatus}{\textbf{草案}}
+
+\title{\bfseries 中国科学技术大学学生 Linux 用户协会章程}
+\author{中国科学技术大学学生 Linux 用户协会}
+\date{2024年春季学期修订\draftstatus：2024年6月2日会员代表大会通过}
+
+\fancypagestyle{firstpage}
+{
+	\renewcommand{\headrulewidth}{0pt}
+	\fancyhead{} % clear all header fields
+	\fancyfoot{} % clear all footer fields
+	\fancyfoot[LE,RO]{-- \thepage\ --}
+	\fancyfoot[LO,RE]{2024年春季修订\draftstatus}
+}
+
+\fancypagestyle{otherpage}
+{
+	\renewcommand{\headrulewidth}{0.5pt}
+	\fancyhead{} % clear all header fields
+	\fancyhead[RO,LE]{\textbf{中国科学技术大学学生 Linux 用户协会章程}}
+	\fancyfoot{} % clear all footer fields
+	\fancyfoot[LE,RO]{-- \thepage\ --}
+	\fancyfoot[LO,RE]{2024年春季修订\draftstatus}
+}
+
+\newcommand{\centercell}[1]{\multicolumn{1}{c}{#1}}
+
+\newcounter{termcounter}
+\setcounter{termcounter}{1}
+\newcommand{\term}{\paragraph{第\chinese{termcounter}条}\addtocounter{termcounter}{1}}

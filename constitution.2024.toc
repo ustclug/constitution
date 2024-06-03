@@ -14,11 +14,12 @@
 \contentsline {paragraph}{第十条}{4}{paragraph*.10}%
 \contentsline {paragraph}{第十一条}{4}{paragraph*.11}%
 \contentsline {paragraph}{第十二条}{5}{paragraph*.12}%
+\contentsline {paragraph}{第十三条}{5}{paragraph*.13}%
 \contentsline {section}{\numberline {第五 章}社团章程的修改}{5}{section.5}%
-\contentsline {paragraph}{第十四条}{5}{paragraph*.13}%
+\contentsline {paragraph}{第十四条}{5}{paragraph*.14}%
 \contentsline {section}{\numberline {第六 章}终止程序及终止后的财产处理}{6}{section.6}%
-\contentsline {paragraph}{第十五条}{6}{paragraph*.14}%
-\contentsline {paragraph}{第十六条}{6}{paragraph*.15}%
+\contentsline {paragraph}{第十五条}{6}{paragraph*.15}%
+\contentsline {paragraph}{第十六条}{6}{paragraph*.16}%
 \contentsline {section}{\numberline {第七 章}附则}{6}{section.7}%
-\contentsline {paragraph}{第十七条}{6}{paragraph*.16}%
+\contentsline {paragraph}{第十七条}{6}{paragraph*.17}%
 \contentsline {section}{\numberline {第八 章}附录：2024年春季学期修订发生变更的章程内容}{7}{section.8}%
